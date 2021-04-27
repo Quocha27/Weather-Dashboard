@@ -2,9 +2,13 @@
 
 Task
 
-Build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
-Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. You will use `localStorage` to store any persistent data.
+Live Site: https://quocha27.github.io/Weather-Dashboard/
+
+
+This weeks assignment, I created a weather dashboard that is capable of displaying a city's forecast if it has been searched in the search bar.
+
+i used the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. I also used `localStorage` to store any persistent data.
 
 ## Story
 
